@@ -1,9 +1,10 @@
 Flask
 requests
-json
 os
 sqlite3
 bcrypt
 time
 matplotlib
-base64
+gunicorn
+python-dotenv
+python==3.11
