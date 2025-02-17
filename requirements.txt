@@ -1,6 +1,5 @@
 Flask
 requests
-os
 sqlite3
 bcrypt
 time
