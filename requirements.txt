@@ -1,8 +1,6 @@
 Flask
 requests
 bcrypt
-time
 matplotlib
 gunicorn
 python-dotenv
-python==3.11
