@@ -1,0 +1,9 @@
+Flask
+requests
+json
+os
+sqlite3
+bcrypt
+time
+matplotlib
+base64
