@@ -2,5 +2,5 @@ Flask
 requests
 bcrypt
 matplotlib
-gunicorn app:app
+gunicorn
 python-dotenv
